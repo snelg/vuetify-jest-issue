@@ -5,7 +5,7 @@ import demo from '~/demo.vue'
 
 Vue.use(Vuetify)
 
-describe('pages/demo', () => {
+describe('demo', () => {
   test('shallow', () => {
     const shallow = shallowMount(demo, {
       localVue: createLocalVue(),
