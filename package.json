@@ -11,6 +11,6 @@
     "vue": "^2.6.10",
     "vue-jest": "^3.0.5",
     "vue-template-compiler": "^2.6.10",
-    "vuetify": "^2.0.19"
+    "vuetify": "^2.6.10"
   }
 }
